@@ -31,7 +31,8 @@ User → Frontend (HTML/JS) → API Gateway → Lambda → DynamoDB
 
 ## 📷 Screenshots
 
-(Add your app screenshot here)
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/463c7014-4037-4af2-a655-dc791aaf0c77" />
+
 
 ---
 
@@ -90,8 +91,6 @@ https://988r89akel.execute-api.ap-southeast-2.amazonaws.com/dev
 Aditya Dilpake
 
 ---
-Output:
-<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/f6ff85f0-4af5-41d0-827d-14fb5ee11f8e" />
 
 
 ## ⭐ If you like this project
