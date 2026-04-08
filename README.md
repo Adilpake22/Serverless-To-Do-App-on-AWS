@@ -90,6 +90,9 @@ https://988r89akel.execute-api.ap-southeast-2.amazonaws.com/dev
 Aditya Dilpake
 
 ---
+Output:
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/f6ff85f0-4af5-41d0-827d-14fb5ee11f8e" />
+
 
 ## ⭐ If you like this project
 
