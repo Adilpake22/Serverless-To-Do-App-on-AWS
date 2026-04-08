@@ -87,7 +87,7 @@ https://988r89akel.execute-api.ap-southeast-2.amazonaws.com/dev
 
 ## 👨‍💻 Author
 
-Your Name
+Aditya Dilpake
 
 ---
 
